@@ -1,4 +1,4 @@
-# Android Utils
+# Android Query
 
 # Documentation
-[Document references](documentation/android-utils/index.md)
+[Document references](documentation/android-query/index.md)
